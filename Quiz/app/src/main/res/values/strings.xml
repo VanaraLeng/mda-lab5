@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="question_1">Which are the four visibility modifiers in Kotlin</string>
+    <string name="q1_answer_1">public, private, protected, abstract</string>
+    <string name="q1_answer_2">static, override, internal, external</string>
+    <string name="q1_answer_3">private, protected, public, internal</string>
+    <string name="q1_answer_4">public, protected, static, internal</string>
+    <string name="question_2">The programming concept of a class that has only one instance is called a ___</string>
+    <string name="q2_answer_1">Lambda</string>
+    <string name="q2_answer_2">Uniqueness</string>
+    <string name="q2_answer_3">Singleton</string>
+    <string name="q2_answer_4">Mono-object</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+</resources>
