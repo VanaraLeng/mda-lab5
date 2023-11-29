@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kotlin Quiz</string>
+    <string name="app_name">Electronic Product</string>
     <string name="question_1">Which are the four visibility modifiers in Kotlin</string>
     <string name="q1_answer_1">public, private, protected, abstract</string>
     <string name="q1_answer_2">static, override, internal, external</string>
@@ -12,4 +12,5 @@
     <string name="q2_answer_4">Mono-object</string>
     <string name="reset">Reset</string>
     <string name="submit">Submit</string>
+    <string name="add">Add</string>
 </resources>
